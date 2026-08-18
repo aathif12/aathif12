@@ -17,7 +17,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/sandeepadila" target="_blank">
+  <a href="https://twitter.com/aathi11" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/sandeepa%20dilakshana" target="_blank">
