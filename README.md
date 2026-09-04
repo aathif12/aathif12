@@ -83,13 +83,10 @@ A PHP/MySQL system for managing customer records with fine-grained access contro
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aathif12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Aathif's GitHub stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aathif12&hide_border=true" alt="Aathif's GitHub streak"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathif12&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+
 
 ---
 
